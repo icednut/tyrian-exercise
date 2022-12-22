@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /Users/icednut/workspace/study/tyrian-exercise/target/scala-3.2.0/tyrianexercise-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 2435296 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 159497 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 2642000 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 559972 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 13068 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 3541184 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 4139786 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 499974 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 18153 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 553251 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 5223 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 2137 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 12968 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 29439 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 1332672 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 42428 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: The set of dangerous global refs has changed. Going to re-generate the world.[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 422704 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 7601 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 3780[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 0 -- invalidated: 13438[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 1869249 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 805011 us[0m
